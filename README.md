@@ -16,13 +16,13 @@ This is a simple yet powerful web application built with React and Vite, designe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/MrSharma151/PasswordGenerator.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd password-generator
+   cd PasswordGenerator
    ```
 
 3. Install dependencies:
