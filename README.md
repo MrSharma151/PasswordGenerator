@@ -1,7 +1,5 @@
 # Password Generator
 
-![Password Generator](./password-generator-screenshot.png)
-
 ## Description
 
 This is a simple yet powerful web application built with React and Vite, designed to generate strong and customizable passwords. With features like specifying password length, including or excluding certain characters, and toggling the inclusion of numbers, Password Generator offers flexibility and security for your password needs.
